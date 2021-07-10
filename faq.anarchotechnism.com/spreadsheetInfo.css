@@ -1,0 +1,40 @@
+#Header {
+  text-align: center;
+  color: green;
+  font-size: 150%;
+}
+
+#Main {
+  color: green;
+  font-family: courier;
+}
+
+a:link, a:visited {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+  font-family: courier;
+}
+
+a:hover, a:active {
+  color: white;
+  text-decoration: underline;
+  font-family: courier;
+  background-color: transparent;
+}
+
+#question {
+  color: white;
+  font-family: courier;
+  font-size: 120%
+}
+
+#Faq {
+  color: green;
+  font-size: 150%;
+  border-left: 5px solid darkgreen;
+  margin: 10px;
+  padding: 5px;
+  text-align: left;
+  size: 25px;
+}

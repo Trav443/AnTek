@@ -1,0 +1,1 @@
+index is the main home site staff and faq are subdomains!

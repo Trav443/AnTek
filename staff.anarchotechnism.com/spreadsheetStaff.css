@@ -1,0 +1,41 @@
+#Header {
+  text-align: center;
+  color: green;
+  font-size: 150%;
+}
+
+#Main {
+  color: green;
+  font-family: courier;
+}
+
+a:link, a:visited {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+  font-family: courier;
+}
+
+a:hover, a:active {
+  color: white;
+  text-decoration: underline;
+  font-family: courier;
+  background-color: transparent;
+}
+
+/*Actual quote of person*/
+#Quote {
+  color: green;
+  font-family: courier;
+}
+
+/*Staff who wrote quote*/
+#Quote_Author {
+  color: grey;
+  font-size: 115%;
+  border-left: 5px solid darkgreen;
+  margin: 10px;
+  padding: 5px;
+  text-align: left;
+  size: 25px;
+}
